@@ -1,0 +1,45 @@
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+p {
+    text-align: center;
+    font-size: 24px;
+}
+img{
+    width: 250px;
+    height: 250px;
+    margin-left: 450px; 
+}
+
+form {
+    text-align: center;
+}
+
+input[type="submit"] {
+    margin-top: 10px;
+}
+
+.error {
+    background: red;
+    box-sizing: border-box;
+    border-radius: 20px;
+    padding: 10px;
+    width:300px;
+    height: 80px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.success {
+    background: green;
+    box-sizing: border-box;
+    border-radius: 20px;
+    padding: 10px;
+    width:300px;
+    height: 80px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
